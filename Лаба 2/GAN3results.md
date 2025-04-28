@@ -1,3 +1,4 @@
+```bash
 Epoch [1/75] | Generator Loss: 1.2034 | Discriminator Loss: 1.1468
 Epoch [2/75] | Generator Loss: 0.9453 | Discriminator Loss: 1.1897
 Epoch [3/75] | Generator Loss: 1.1647 | Discriminator Loss: 1.3007
@@ -73,3 +74,4 @@ Epoch [72/75] | Generator Loss: 0.7910 | Discriminator Loss: 1.3784
 Epoch [73/75] | Generator Loss: 0.8074 | Discriminator Loss: 1.3601
 Epoch [74/75] | Generator Loss: 0.7961 | Discriminator Loss: 1.4131
 Epoch [75/75] | Generator Loss: 0.7876 | Discriminator Loss: 1.3696
+```
