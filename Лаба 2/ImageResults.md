@@ -1,4 +1,4 @@
-# **Images were made each 5 epochs**
+# **Images were made each 5 epochs (1-75)**
 
 ![Epoch1](https://github.com/user-attachments/assets/55b6d901-c36d-4b25-a3c3-c8f682245c74)
 ![Epoch5](https://github.com/user-attachments/assets/2c9abb4b-aa5c-4a6c-bd8e-bf8931867020)
